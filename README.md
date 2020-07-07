@@ -8,7 +8,7 @@ DopeTV - A Laravel project to use for video on demand with multi player support.
 3. Support `DASH`/`HLS`
 4. EMBED Option
 5. TMDB API
-6. Automatic Seasons/Episodes pull from TMDBP (api)
+6. Automatic Seasons/Episodes pull from TMDB (api)
 7. Ads Options, Popunder/VAST/Etc
 8. Visitor/Plays Tracking
 9. Player Support : VideoJS, JWPlayer, Plyr, TheoPlayer, Azure Media Player, Flowplayer 
